@@ -1,0 +1,16 @@
+C:\Users\Максим\source\repos\Lab\Lab\bin\Debug\net8.0-windows\Lab.exe
+C:\Users\Максим\source\repos\Lab\Lab\bin\Debug\net8.0-windows\Lab.deps.json
+C:\Users\Максим\source\repos\Lab\Lab\bin\Debug\net8.0-windows\Lab.runtimeconfig.json
+C:\Users\Максим\source\repos\Lab\Lab\bin\Debug\net8.0-windows\Lab.dll
+C:\Users\Максим\source\repos\Lab\Lab\bin\Debug\net8.0-windows\Lab.pdb
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.Form1.resources
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.dll
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\refint\Lab.dll
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.pdb
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\Lab.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Lab\Lab\obj\Debug\net8.0-windows\ref\Lab.dll
