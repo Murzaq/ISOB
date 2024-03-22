@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ISOB_2Client/1.0.0": {
+        "dependencies": {
+          "ISOB_2": "1.0.0"
+        },
+        "runtime": {
+          "ISOB_2Client.dll": {}
+        }
+      },
+      "ISOB_2/1.0.0": {
+        "runtime": {
+          "ISOB_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISOB_2Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ISOB_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

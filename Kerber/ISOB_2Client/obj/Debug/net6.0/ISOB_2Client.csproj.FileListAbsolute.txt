@@ -1,0 +1,42 @@
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.deps.json
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.runtimeconfig.json
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.exe
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.exe
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.deps.json
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.runtimeconfig.json
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.dll
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.pdb
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.dll
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.pdb
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.AssemblyReference.cache
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.AssemblyInfoInputs.cache
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.AssemblyInfo.cs
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.CoreCompileInputs.cache
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.CopyComplete
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.dll
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\refint\ISOB_2Client.dll
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.pdb
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.genruntimeconfig.cache
+D:\6 semester\IN-SB\Kerber\ISOB_2Client\obj\Debug\net6.0\ref\ISOB_2Client.dll
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.deps.json
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.runtimeconfig.json
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.exe
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.exe
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.deps.json
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.runtimeconfig.json
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.dll
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2Client.pdb
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.dll
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\bin\Debug\net6.0\ISOB_2.pdb
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.csproj.CopyComplete
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.dll
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\refint\ISOB_2Client.dll
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.pdb
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ISOB_2Client.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Kerber\ISOB_2Client\obj\Debug\net6.0\ref\ISOB_2Client.dll
