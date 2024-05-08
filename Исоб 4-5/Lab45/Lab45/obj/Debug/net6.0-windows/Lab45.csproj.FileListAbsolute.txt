@@ -1,0 +1,67 @@
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.exe
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.deps.json
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.runtimeconfig.json
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.pdb
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.AssemblyReference.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfoInputs.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfo.cs
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.CoreCompileInputs.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\refint\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.pdb
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.genruntimeconfig.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\ref\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.Form1.resources
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.GenerateResource.cache
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.Form1.resources
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.GenerateResource.cache
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfoInputs.cache
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfo.cs
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.CoreCompileInputs.cache
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.dll
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\ref\Lab45.dll
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.pdb
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.exe
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.deps.json
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.runtimeconfig.json
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.dll
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\ref\Lab45.dll
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.pdb
+G:\PROGRAMMING\6 sem\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.exe
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.deps.json
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.runtimeconfig.json
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.dll
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.pdb
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.Form1.resources
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.dll
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\refint\Lab45.dll
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.pdb
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Исоб\Lab45\Lab45\obj\Debug\net6.0-windows\ref\Lab45.dll
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.exe
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.deps.json
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.runtimeconfig.json
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.dll
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\bin\Debug\net6.0-windows\Lab45.pdb
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.Form1.resources
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.dll
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\refint\Lab45.dll
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.pdb
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\Lab45.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Исоб 4-5\Lab45\Lab45\obj\Debug\net6.0-windows\ref\Lab45.dll

@@ -1,0 +1,5 @@
+C:\asdf\Lab45.exe
+C:\asdf\Lab45.dll
+C:\asdf\Lab45.deps.json
+C:\asdf\Lab45.runtimeconfig.json
+C:\asdf\Lab45.pdb

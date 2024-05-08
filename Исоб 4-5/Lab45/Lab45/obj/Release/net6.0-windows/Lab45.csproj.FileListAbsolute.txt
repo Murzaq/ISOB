@@ -1,0 +1,17 @@
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Release\net6.0-windows\Lab45.exe
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Release\net6.0-windows\Lab45.deps.json
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Release\net6.0-windows\Lab45.runtimeconfig.json
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Release\net6.0-windows\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\bin\Release\net6.0-windows\Lab45.pdb
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.csproj.AssemblyReference.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.Form1.resources
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.csproj.GenerateResource.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.AssemblyInfoInputs.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.AssemblyInfo.cs
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.csproj.CoreCompileInputs.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\refint\Lab45.dll
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.pdb
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\Lab45.genruntimeconfig.cache
+D:\University\Labs\Sem6\ISOB\Lab45\Lab45\obj\Release\net6.0-windows\ref\Lab45.dll
